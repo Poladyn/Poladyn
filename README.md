@@ -1,8 +1,8 @@
-## Opa!, Poladyn na área! Sou Editor Profissional, Criador de conteudo e Amo programar!
+## Poladyn 
 <div align="center">
   <a href="https://github.com/Poladyn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poladyn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poladyn&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Poladyn&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poladyn&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
  
