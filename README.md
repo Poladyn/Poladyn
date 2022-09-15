@@ -9,14 +9,11 @@
 </div>
 <div style="display: inline_block"><br>
 
-<img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
-
-
   ##
   
 <div> 
   <a href="https://www.youtube.com/channel/UCgtKfWv4ZHQC6TeVEWDlQgQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/poladyn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
- 
+
 </div>
