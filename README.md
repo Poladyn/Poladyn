@@ -10,13 +10,8 @@
 <div style="display: inline_block"><br>
 
 <img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
-   <img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
-  <img align="center" alt="Poladyn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Poladyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Poladyn-pic" height="130" style="border-radius:50px;" src="https://c.tenor.com/ct7cdh_qW-8AAAAd/perfil-apenas.gif">
-</div>
- 
+
   ##
   
 <div> 
