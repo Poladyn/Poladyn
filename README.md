@@ -1,4 +1,6 @@
 ## Poladyn 👋
+  hello I'm Poladyn "web developer" and professional editor! but I follow the web developer career!
+  
 <div align="center">
   <a href="https://github.com/Poladyn">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Poladyn&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
